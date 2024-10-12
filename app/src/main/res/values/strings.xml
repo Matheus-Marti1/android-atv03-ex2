@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atv3Ex2Combustivel</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="autonomia_titulo">Cálculo de Autonomia</string>
+    <string name="valor_consumo">Insira o consumo médio em km/l</string>
+    <string name="valor_combustivel">Insira a quantidade de combustível</string>
+    <string name="calcular">Calcular</string>
+</resources>
